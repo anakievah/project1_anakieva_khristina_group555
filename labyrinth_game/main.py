@@ -1,8 +1,4 @@
 from labyrinth_game.constants import (
-    MOVE_UP,
-    MOVE_DOWN,
-    MOVE_LEFT,
-    MOVE_RIGHT,
     QUIT,
 )
 from labyrinth_game.player_actions import move_player
