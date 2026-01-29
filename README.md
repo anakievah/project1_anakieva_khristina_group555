@@ -28,6 +28,15 @@ project1_anakieva_khristina_group555/
 ├── Makefile
 └── .gitignore
 
+# Установка
+poetry install
+
+# Запуск
+poetry run project
+
+# Проверка кода
+make lint
+
 # Управление
 | Клавиша | Действие      |
 | ------- | ------------- |
